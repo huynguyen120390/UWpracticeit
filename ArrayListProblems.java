@@ -1,3 +1,7 @@
+/**
+   Arraylist Problems in Practiceit by University of Washington 
+   Author: Huy Nguyen 
+*/
 import java.util.*;
 import java.io.*;
 import java.io.File;
