@@ -131,7 +131,6 @@ public class ArrayListProblems{
          }
       }
       System.out.println(list);
-
    }
    
    public static void removeDuplicates(ArrayList<String> list){
